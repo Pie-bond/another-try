@@ -66,7 +66,7 @@ section a:hover {
 
 /* Fade-in Animation */
 .fade-in {
-    opacity: 0;
+    opacity: 1;
     transform: translateY(30px);
 }
 
